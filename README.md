@@ -16,6 +16,7 @@ Random List Generator is a simple web application designed to help you organize 
 - **Bug Fixes:** Address any existing bugs to ensure smooth functionality.
 - **Improved Error Messages:** Enhance error messages to be more user-friendly.
 - **Save Previous Inputs:** Implement functionality to save previously entered player names.
+- **Add Localizations:** Support for English, and a lot of other languages could easly use AI to translate since it's only a few words
   
 ## Deployment
 
